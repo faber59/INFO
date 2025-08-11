@@ -1,3 +1,3 @@
 Server Ufficio|faber59.github.io/Piri_Web1
 Server PC|faber59.github.io/Piri_Web2
-Computer Mio|https://faberx.ns0.it:10600
+Computer Mio|http://faberx.ns0.it:10600
