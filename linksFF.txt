@@ -1,1 +1,1 @@
-Personal Server|http://faberx.ns0.it:10600
+Personal Server|http://faberx.freeddns.org:10600
