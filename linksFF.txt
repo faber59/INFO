@@ -1,1 +1,1 @@
-Personal Server|http://faberx.freeddns.org:10600
+Personal Server|http://faberx59.freeddns.org:10600
